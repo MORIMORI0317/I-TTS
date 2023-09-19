@@ -37,6 +37,8 @@ public class ITTSRuntime {
      */
     private final Logger logger;
 
+    private final String IKISUGI_TEST;
+    
     /**
      * 非同期処理用エクスキューター
      */
