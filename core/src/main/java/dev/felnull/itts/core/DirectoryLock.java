@@ -23,6 +23,8 @@ public class DirectoryLock implements ITTSRuntimeUse {
      */
     private FileOutputStream fileOutputStream;
 
+    private String TEST_OF_IKISUGI;
+    
     /**
      * ファイルロック
      */
