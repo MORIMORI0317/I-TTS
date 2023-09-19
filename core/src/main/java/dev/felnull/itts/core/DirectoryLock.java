@@ -23,8 +23,9 @@ public class DirectoryLock implements ITTSRuntimeUse {
      */
     private FileOutputStream fileOutputStream;
 
+    
     /**
-     * ファイルロック
+     * ファイルロック2
      */
     private FileLock fileLock;
 
